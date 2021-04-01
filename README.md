@@ -1,0 +1,4 @@
+- Set up AWS account
+- put secret info into .env 
+- populate services, models and controllers
+- TDD CRUD routes
